@@ -10,4 +10,5 @@
 # 9. Script that deletes the directory holberton in the /tmp directory.
 # 10. Script that changes the working directory to the previous one.
 # 11. Script that lists all files in the current directory and the parent of the working directory and the /boot directory in a long format.
-# 12. Script that prints the type of file named iamafile in the /tmp directory  
+# 12. Script that prints the type of file named iamafile in the /tmp directory.
+# 13. Script that creates a symbolic link to /bin/ls named __ls__.  
