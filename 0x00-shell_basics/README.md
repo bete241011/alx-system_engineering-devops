@@ -7,4 +7,5 @@
 # 6. Script that creates a directory named holberton in the /tmp/ directory.
 # 7. Script that moves the file betty from /tmp/ to /tmp/holberton.
 # 8. Script that deletes the file betty in /tmp/holberton.
-# 9. Script that deletes the directory holberton in the /tmp directory. 
+# 9. Script that deletes the directory holberton in the /tmp directory.
+# 10. Script that that changes the working directory to the previous one. 
