@@ -12,4 +12,5 @@
 # 11. Script that lists all files in the current directory and the parent of the working directory and the /boot directory in a long format.
 # 12. Script that prints the type of file named iamafile in the /tmp directory.
 # 13. Script that creates a symbolic link to /bin/ls named __ls__.
-# 14. Script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory."   
+# 14. Script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
+# 15. Script that moves all files start with an uppercase letter to the directory /tmp/u.   
