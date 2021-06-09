@@ -4,4 +4,5 @@
 # 3. Script that displays current directory contents in a long format.
 # 4. Script that displays current directory contents, including hidden files in a long format.
 # 5. Script that displays current directory contents, including hidden files in a long format numerically with user and group IDs.
-# 6. Scripts that creates a directory named holberton in the /tmp/ directory. 
+# 6. Scripts that creates a directory named holberton in the /tmp/ directory.
+# 7. Scripts that moves the file betty from /tmp/ to /tmp/holberton. 
