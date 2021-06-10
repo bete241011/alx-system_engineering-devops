@@ -10,4 +10,5 @@
 # 9. Script that sets all permission for the owner, read and execute for the group, write and execute for the other user to the file hello.
 # 10. Script that sets the mode of the file hello the same as olleh's mode.
 # 11. Script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all othe users except files.
-# 12. Script that creates a directory called dir_holberton with permissions 751 in the working directory. 
+# 12. Script that creates a directory called dir_holberton with permissions 751 in the working directory.
+# 13. Script that changes the group owner to holberton for the file hello. 
