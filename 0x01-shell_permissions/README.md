@@ -8,4 +8,5 @@
 # 7. Script that adds execution permission to the owner, the group owner and the other users, to the file hello.
 # 8. Script that sets the no permission for owner and group owner and all permission for other users to the file hello.
 # 9. Script that sets all permission for the owner, read and execute for the group, write and execute for the other user to the file hello.
-# 10. Script that sets the mode of the file hello the same as olleh's mode. 
+# 10. Script that sets the mode of the file hello the same as olleh's mode.
+# 11. Script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all othe users except files. 
