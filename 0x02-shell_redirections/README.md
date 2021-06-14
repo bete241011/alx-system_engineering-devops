@@ -5,3 +5,4 @@
 # 4. a script that display the last 10 lines of /etc/passwd.
 # 5. a script that display the first 10 lines of /etc/passwd.
 # 6. a script that displays the third line of the file iacta in the current directory.
+# 7. a shell script that creates a file named exactly \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:) containing the text Holberton School ending by a new line.
