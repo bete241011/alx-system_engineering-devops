@@ -12,3 +12,4 @@
 # 11. a script that counts the number of directories and sub-directories including hidden directories in the current directory without taken into account the current and parent directories.
 # 12. a script that displays the 10 newest files in the current directory. One file per line and sorted from the newest to the oldest.
 # 13. a script that takes a list of one line and one words as input and prints only a one line words that appear exactly once and words should be sorted.
+# 14. a script that display lines containing the pattern “root” from the file /etc/passwd.
