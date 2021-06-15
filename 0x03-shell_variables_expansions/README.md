@@ -12,3 +12,4 @@
 #### 11. a script that converts a number from base 2 to base 10, the number in base 2 is stored in the environment variable BINARY.
 #### 12. a script that prints all possible combinations of two letters, except oo. letters are lower cases, from a to z, one combination per line, the output should be alphs ordered, and do not print oo.
 #### 13. a script that prints a number with two decimal places, stored in the environment variable NUM, followed by a new line.
+#### 14. a script that converts a number from base 10 to base 16, The number in base 10 is stored in the environment variable DECIMAL.
